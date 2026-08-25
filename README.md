@@ -27,7 +27,7 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
 ### 📂 Meus Principais Projetos
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| [E-commerce](https://https://github.com/Gabriel-Pereira1/ecommerce) | E-commerce de eletronicos. | HTML, CSS, PHP |
+| [E-commerce](https://github.com/Gabriel-Pereira1/ecommerce) | E-commerce de eletronicos. | HTML, CSS, PHP |
 
 ---
 
